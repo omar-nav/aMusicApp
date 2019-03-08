@@ -1,10 +1,10 @@
-# platzimusic
+# musicApp
 
-> Proyecto del curso de Introduccion a Vue.js de Platzi
+> Proyecto del curso de Introduccion a Vue.js
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -16,4 +16,3 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# aMusicApp
